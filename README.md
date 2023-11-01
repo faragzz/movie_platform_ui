@@ -1,4 +1,4 @@
-# animation_ui
+# movie_platform_ui
 
 A new Flutter project.
 
